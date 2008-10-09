@@ -1,0 +1,7 @@
+2008-10-08
+  - moved to git
+  - added README.txt, LICENSE.txt, and CHANGES.txt
+  - fixed usage help message: "[patch-file]" is optional
+
+2008-09-13
+  - initial implementation
