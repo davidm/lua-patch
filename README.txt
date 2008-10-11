@@ -65,7 +65,7 @@ Related documentation and implementations on patch:
           Unified Diff Format] by Guido van Rossum
         * [http://www.gnu.org/software/patch/ GNU patch]
         * [http://code.google.com/p/python-patch/wiki/README patch.py]
-          Python implementation of patch (which is is based on)
+          Python implementation of patch (which this is based on)
         * [http://sourceforge.net/projects/phppatcher/ phppatcher]
           PHP implementation of patch
         * [http://members.chello.nl/~w.couwenberg ldiff & lpatch]
