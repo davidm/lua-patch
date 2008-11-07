@@ -25,7 +25,7 @@ To patch current directory using patch file "mypatch":
 
 The latest source can be downloaded from
 
-        * http://github.com/davidm/luapatch/
+        * http://github.com/davidm/lua-patch/
 
 == Project Page ==
 
